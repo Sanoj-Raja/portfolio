@@ -42,4 +42,6 @@ Welcome to my vibrant and awesome app portfolio! Below, you'll find a showcase o
 ### Ticket Kore (South Africa Based)
 [![Download on App Store](https://img.shields.io/badge/Download_on_App_Store-Ticket_Kore-blue?logo=app-store&logoColor=white&style=for-the-badge)](https://apps.apple.com/us/app/itunes-connect/id376771144)
 
+
 Feel the excitement! Dive into this world of amazing apps. Download them from the respective stores and witness innovation in action. Thank you for exploring my portfolio! 🚀✨
+
